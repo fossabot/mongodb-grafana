@@ -1,4 +1,6 @@
 # MongoDB datasource for Grafana
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fmongodb-grafana.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fmongodb-grafana?ref=badge_shield)
+
 
 ## Features
 Allows MongoDB to be used as a data source for Grafana by providing a proxy to convert the Grafana Data source [API](http://docs.grafana.org/plugins/developing/datasources/) into MongoDB aggregation queries
@@ -134,3 +136,7 @@ Note
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fmongodb-grafana.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fmongodb-grafana?ref=badge_large)
